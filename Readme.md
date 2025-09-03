@@ -13,10 +13,8 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
-![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 
 ---
 
