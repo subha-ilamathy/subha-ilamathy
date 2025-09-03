@@ -11,6 +11,8 @@
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c++)
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
