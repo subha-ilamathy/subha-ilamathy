@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Subha Ilamathy!
 
- 💻 AI + ML Engineer | 🎓 Master of Science in Computer Science | 🌐 Knowledge Graph Enthusiast  
+ 💻 AI + ML Engineer | 🎓 Master of Science in Computer Science | 🌐 Computer Vision, Machine Learning
 
 ---
 
-## 🚀 Current Focus
-- 🛠️ Building AI Agents and Multimodal AI Assistants
-- 🌱 Exploring: Causal reasoning, Graph RAGs, Agentic AI applications
+## 🚀 Experience
+- 🛠️ Proficient in Computer Vision, Machine Learning, Deep Learning, Full Stack (Backend)
 
 ---
 
