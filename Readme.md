@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Subha Ilamathy!
 
- 💻 AI + ML Engineer | 🎓 Master of Science in Computer Science | 🌐 Computer Vision, Machine Learning
+ 💻 Software Engineer | AI + ML Engineer | 🎓 Master of Science in Computer Science | 🌐 Computer Vision, Machine Learning
 
 ---
 
 ## 🚀 Experience
-- 🛠️ Proficient in Computer Vision, Machine Learning, Deep Learning, Full Stack (Backend)
+- 🛠️ Proficient in Full Stack (Backend), Data Engineering, Computer Vision, Machine Learning, Deep Learning
 
 ---
 
